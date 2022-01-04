@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I am Ella Cay
 
-<!--
-**ellacay/ellacay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A little bit about me...
+1. Started coding seriously in 2019
+2. Deployed my first paid PWA in 2021
+3. Spoken at the WITWA 2021 Conference
+4. Mentored with SheCodes Perth
 
-Here are some ideas to get you started:
+## My Languages Include:
+- MERN Stack
+- Python
+- SCSS
+- SwiftUI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Fun Fact:
+My first game I built was a Harry Potter Scratch Quidditch Game :D
