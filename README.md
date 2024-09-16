@@ -8,12 +8,18 @@ Reach me at my LinkedIn Account: https://www.linkedin.com/in/ella-smith-37290520
 2. Deployed my first paid PWA in 2021 :tada:
 3. Spoken at the WITWA 2021 Conference :speaker:
 4. Mentored with SheCodes Perth :woman:
+5. Interned at SSW in Sydney 2024.
+6. Attend USYD studying Advanced Computing!
 
 ### My Languages Include:
-- MERN Stack
+- React JS
+- Angular
+- Typescript
 - Python
-- SCSS
 - SwiftUI
+- C++
+- .Net
+- C#
 
 ### Fun Fact:
 My first game I built was a Harry Potter Scratch Quidditch Game :D
